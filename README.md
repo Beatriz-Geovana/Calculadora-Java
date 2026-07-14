@@ -40,10 +40,6 @@ Github
 3. Execute a classe principal.
 4. Utilize a calculadora normalmente.
 
-## 📷 Demonstração:
-
-
-
 ## 👩🏽‍💻 Desenvolvido por:
 
 Beatriz Geovana
