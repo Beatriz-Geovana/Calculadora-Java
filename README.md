@@ -5,13 +5,13 @@ e criação de interfaces gráficas utilizando **Java Swing**.
 
 ## 📖 Sobre o Projeto:
 
-Esta calculadora foi desenvolvida para realizar operações matemáticas básicas por meio de uma interface gráfica simpless, intuitiva e de fácil 
+Esta calculadora foi desenvolvida para realizar operações matemáticas básicas por meio de uma interface gráfica simples, intuitiva e de fácil 
 utilização.
 
 Além de colocar em prática os conceitos de programação, o projeto contribuiu para o aprendizado de organização de código,
 separação de responsabilidades e boas práticas em Java.
 
-## 🚀 funcionalidades:
+## 🚀 Funcionalidades:
 
 ➕ Soma
 ➖ Subtração
