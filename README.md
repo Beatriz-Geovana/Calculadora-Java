@@ -35,9 +35,9 @@ Github
 
 ## ▶️ Como Executar:
 
-1. Clone o repositório.
+1. git clone https://github.com/Beatriz-Geovana/Calculadora-Java.git
 2. Abra o projeto no Eclipse.
-3. Execute a classe principal.
+3. Execute a classe principal da aplicação (Main.java).
 4. Utilize a calculadora normalmente.
 
 ## 👩🏽‍💻 Desenvolvido por:
